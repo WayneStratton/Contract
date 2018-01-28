@@ -72,7 +72,7 @@ In the event that we incur legal fees, costs and disbursements in an effort to c
 
 **5.0 Cancellation of Plans**
 
-You have the right to modify, reject, cancel or stop any and all plans or work in process. However, you agree to reimburse us for all costs and expenses we incurred prior to your change in instructions, and which relate to non-cancelable commitments, and to defend, indemnify and hold us harmless for any liability relating to such action. We agree to use our best efforts to minimize such costs and expenses.
+You have the right to modify, reject, cancel or stop any and all plans or work in process. However, you agree to reimburse us for all costs and expenses we incurred prior to your change in instructions, and which relate to non-cancelable commitments, and to defend, indemnify and hold us harmless for any liability relating to such action. We agree to use our best efforts to minimize such costs and expenses. All payments and deposits made to Wayne Stratton are non-refundable.
 
 **6.0 Responsibilities of Our Clients and Partners**
 
