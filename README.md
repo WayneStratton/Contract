@@ -1,0 +1,2 @@
+# Contract
+Contract template.
