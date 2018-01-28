@@ -30,7 +30,7 @@ Browser testing no longer means attempting to make a website look the same in br
 
 DESKTOP BROWSER TESTING
 
-We test our work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Internet Explorer), and Mozilla Firefox. We'll also test to ensure Microsoft Internet Explorer 9 for Windows users get an appropriate, possibly different, experience. We won't test in other older browsers unless you specify otherwise. If you need an enhanced design for an older browser, we can provide a separate estimate for that.
+We test our work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft Edge, and Mozilla Firefox. We'll also test to ensure Microsoft Internet Explorer for Windows users get an appropriate, possibly different, experience. We won't test in other older browsers unless you specify otherwise. If you need an enhanced design for an older browser, we can provide a separate estimate for that.
 
 MOBILE BROWSER TESTING
 
@@ -54,17 +54,17 @@ We agree to use our best efforts to fulfill and exceed your expectation on the d
 
 **3.0 Charges for Services Performed**
 
-Functionality or feature requests above and beyond those listed in the budget and/or the functionality specs may be considered out-of-scope and an amendment to the budget will be recommended. Projects that go dormant for longer than 45 days will incur a $450 restart fee plus an upfront payment of the remaining balance to resume work at the discretion of Wayne Stratton. Any project that remains incomplete 120 days from the start date will be canceled with all payments forfeited to Nuts and Bolts Media.
+Functionality or feature requests above and beyond those listed in the budget and/or the functionality specs may be considered out-of-scope and an amendment to the budget will be recommended. Projects that go dormant for longer than 45 days will incur a $450 restart fee plus an upfront payment of the remaining balance to resume work at the discretion of Wayne Stratton. Any project that remains incomplete 120 days from the start date will be canceled with all payments forfeited to Wayne Stratton.
 
 **4.0 Terms of Payment**
 
 4.1 BILLING SCHEDULE
 
-We are a small business, and we're sure you understand how important it is that you pay the invoices that we send you promptly. We're also sure you'll want to maintain a positive working relationship and keep the project moving forward, so you agree to stick tight to the following payment schedule. For design and development projects, Nuts and Bolts Media, LLC will invoice you for fifty percent (50%) of the initial fees at the point of your accepted estimate, which will act as the deposit. Deposits are non-refundable unless we cancel your project. ***The remaining balance will be due prior to launch of the completed project.*** If requested in advance, the final payment may be split into two payments, with 25% of the total due once the test site has been approved and the final 25% due at successful launch. Smaller projects such as migrations, site tweaks, or one-off templates will be invoiced for 100% of the total cost before any services are performed.
+We are a small business, and we're sure you understand how important it is that you pay the invoices that we send you promptly. We're also sure you'll want to maintain a positive working relationship and keep the project moving forward, so you agree to stick tight to the following payment schedule. For design and development projects, Wayne Stratton will invoice you for fifty percent (50%) of the initial fees at the point of your accepted estimate, which will act as the deposit. Deposits are non-refundable unless we cancel your project. ***The remaining balance will be due prior to launch of the completed project.*** If requested in advance, the final payment may be split into two payments, with 25% of the total due once the test site has been approved and the final 25% due at successful launch. Smaller projects such as migrations, site tweaks, or one-off templates will be invoiced for 100% of the total cost before any services are performed.
 
 4.2 CLIENT AGREEMENT TO PAY
 
-You agree to pay our initial (1st) invoice upon receipt which will act as a deposit for design or development projects or a full payment for smaller projects. In the event payment is not made within 7 days, Nuts and Bolts Media, LLC will charge a late payment fee of 5% per week on any overdue and unpaid balance not in dispute, to cover the manpower, interest, and other costs Nuts and Bolts Media, LLC pays for carrying overdue invoices. In addition, Nuts and Bolts Media, LLC reserves the right to stop work until payment is received.
+You agree to pay our initial (1st) invoice upon receipt which will act as a deposit for design or development projects or a full payment for smaller projects. In the event payment is not made within 7 days, Wayne Stratton will charge a late payment fee of 5% per week on any overdue and unpaid balance not in dispute, to cover the manpower, interest, and other costs Wayne Stratton pays for carrying overdue invoices. In addition, Wayne Stratton reserves the right to stop work until payment is received. 
 
 4.3 COLLECTION COSTS
 
@@ -90,7 +90,7 @@ You shall be responsible for the accuracy, completeness, and propriety of inform
 
 **7.0 Confidentiality**
 
-Nuts and Bolts Media, LLC acknowledges its responsibility, both during and after the term of its appointment, to use all reasonable efforts to preserve the confidentiality of any proprietary or confidential information or data developed by Nuts and Bolts Media, LLC on behalf of clients or as disclosed by clients to Nuts and Bolts Media, LLC.
+Wayne Stratton acknowledges its responsibility, both during and after the term of its appointment, to use all reasonable efforts to preserve the confidentiality of any proprietary or confidential information or data developed by Wayne Stratton on behalf of clients or as disclosed by clients to Wayne Stratton.
 
 **8.0 Term and Termination**
 
@@ -112,13 +112,13 @@ If upon termination there exist any materials furnished by us or any services pe
 
 8.5 TRANSFER OF MATERIALS
 
-Upon termination of this agreement, provided that there is no outstanding indebtedness then owing by the client to Nuts and Bolts Media, LLC, Nuts and Bolts Media, LLC shall transfer, assign and make available to the client all property and materials in its possession or control belonging to the client. Client agrees to pay for all costs associated with the transfer of materials.
+Upon termination of this agreement, provided that there is no outstanding indebtedness then owing by the client to Wayne Stratton, Wayne Stratton shall transfer, assign and make available to the client all property and materials in its possession or control belonging to the client. Client agrees to pay for all costs associated with the transfer of materials.
 
 **9.0 General Provisions**
 
 9.1 GOVERNING LAW
 
-This Agreement shall be governed and construed in accordance with the laws of the State of Kentucky.
+This Agreement shall be governed and construed in accordance with the laws of the State of North Carolina.
 
 9.2 REPRESENTATIONS AND WARRANTIES
 
@@ -134,4 +134,4 @@ If any provision of this Agreement is held to be illegal, invalid, or unenforcea
 
 **Next Steps**
 
-By accepting the estimate we have provided, you indicate that you have read, understood, and agreed to the above contract. Should you have any questions or concerns, you agree to make contact with Wayne Stratton prior to signing this agreement.
+By accepting the estimate we have provided, you indicate that you have read, understood, and agreed to the above contract. Should you have any questions or concerns, you agree to make contact with Wayne Stratton prior to signing this Agreement.
