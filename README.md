@@ -1,4 +1,4 @@
-Terms and Conditions
+**Terms and Conditions**
 
 You are hiring Wayne Stratton, located in Raleigh, North Carolina for a design and/or development project for the estimated total price outlined in our previous correspondence.
 
