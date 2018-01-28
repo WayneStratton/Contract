@@ -46,10 +46,10 @@ Functionality or feature requests above and beyond those listed in the budget an
 4.0 Terms of Payment
 
 4.1 BILLING SCHEDULE
-We are a small business, and we’re sure you understand how important it is that you pay the invoices that we send you promptly. We’re also sure you’ll want to maintain a positive working relationship and keep the project moving forward, so you agree to stick tight to the following payment schedule. For design and development projects, Wayne Stratton will invoice you for fifty percent (50%) of the initial fees at point of your accepted estimate, which will act as the deposit. Deposits are non-refundable unless we cancel your project. The remaining balance will be due prior to launch of the completed project. If requested in advance, the final payment may be split into two payments, with 25% of the total due once the test site has been approved and the final 25% due upon successful launch. Smaller projects such as migrations, site tweaks, or one-off templates will be invoiced for 100% of the total cost before any services are performed.
+We are a small business, and we’re sure you understand how important it is that you pay the invoices that we send you promptly. We’re also sure you’ll want to maintain a positive working relationship and keep the project moving forward, so you agree to stick tight to the following payment schedule. For design and development projects, Nuts and Bolts Media, LLC will invoice you for fifty percent (50%) of the initial fees at point of your accepted estimate, which will act as the deposit. Deposits are non-refundable unless we cancel your project. The remaining balance will be due prior to launch of the completed project. If requested in advance, the final payment may be split into two payments, with 25% of the total due once the test site has been approved and the final 25% due upon successful launch. Smaller projects such as migrations, site tweaks, or one-off templates will be invoiced for 100% of the total cost before any services are performed.
 
 4.2 CLIENT AGREEMENT TO PAY
-You agree to pay our initial (1st) invoice upon receipt which will act as a deposit for design or development projects or a full payment for smaller projects. In the event payment is not made within 7 days, Wayne Stratton will charge a late payment fee of 5% per week on any overdue and unpaid balance not in dispute, to cover the manpower, interest, and other costs Wayne Stratton pays for carrying overdue invoices. In addition, Wayne Stratton reserves the right to stop work until payment is received.
+You agree to pay our initial (1st) invoice upon receipt which will act as a deposit for design or development projects or a full payment for smaller projects. In the event payment is not made within 7 days, Nuts and Bolts Media, LLC will charge a late payment fee of 5% per week on any overdue and unpaid balance not in dispute, to cover the manpower, interest, and other costs Nuts and Bolts Media, LLC pays for carrying overdue invoices. In addition, Nuts and Bolts Media, LLC reserves the right to stop work until payment is received.
 
 4.3 COLLECTION COSTS
 In the event that we incur legal fees, costs and disbursements in an effort to collect our invoices, in addition to interest on the unpaid balance, you agree to reimburse us for these expenses.
@@ -69,7 +69,7 @@ You guarantee that all elements of text, images, or other artwork you provide ar
 You shall be responsible for the accuracy, completeness and propriety of information concerning your products and services which you furnish to us verbally or in writing in connection with the performance of this Agreement.
 
 7.0 Confidentiality
-Wayne Stratton acknowledges its responsibility, both during and after the term of its appointment, to use all reasonable efforts to preserve the confidentiality of any proprietary or confidential information or data developed by Wayne Stratton on behalf of clients or as disclosed by clients to Wayne Stratton.
+Nuts and Bolts Media, LLC acknowledges its responsibility, both during and after the term of its appointment, to use all reasonable efforts to preserve the confidentiality of any proprietary or confidential information or data developed by Nuts and Bolts Media, LLC on behalf of clients or as disclosed by clients to Nuts and Bolts Media, LLC.
 
 8.0 Term and Termination
 
@@ -86,7 +86,7 @@ Any non-cancelable materials, services, etc., we have properly committed ourselv
 If upon termination there exist any materials furnished by us or any services performed by us for which you have not paid us in full, until such time as you have paid us in full you agree not to use any such materials, in whole or in part, or the product of such services.
 
 8.5 TRANSFER OF MATERIALS
-Upon termination of this agreement, provided that there is no outstanding indebtedness then owing by the client to Wayne Stratton, Wayne Stratton shall transfer, assign and make available to the client all property and materials in its possession or control belonging to the client. Client agrees to pay for all costs associated with the transfer of materials.
+Upon termination of this agreement, provided that there is no outstanding indebtedness then owing by the client to Nuts and Bolts Media, LLC, Nuts and Bolts Media, LLC shall transfer, assign and make available to the client all property and materials in its possession or control belonging to the client. Client agrees to pay for all costs associated with the transfer of materials.
 
 9.0 General Provisions
 
@@ -105,4 +105,3 @@ If any provision of this Agreement is held to be illegal, invalid, or unenforcea
 Next Steps
 
 By accepting the estimate we have provided, you indicate that you have read, understood, and agreed with the above contract. Should you have any questions or concerns, you agree to make contact with Wayne Stratton prior to signing this agreement.
-
